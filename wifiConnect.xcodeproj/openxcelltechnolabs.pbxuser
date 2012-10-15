@@ -1,0 +1,149 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* wifiConnectAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {810, 1736}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{282, 729}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* wifiConnect */ = {
+		activeExec = 0;
+		executables = (
+			F4A60A3B148E43590085F181 /* wifiConnect */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* wifiConnectViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1853, 658}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{732, 679}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {845, 8554}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1382, 680}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F4A60A3B148E43590085F181 /* wifiConnect */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* wifiConnect */;
+		codeSenseManager = F4A60A51148E43760085F181 /* Code sense */;
+		executables = (
+			F4A60A3B148E43590085F181 /* wifiConnect */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					577,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344867674;
+			PBXWorkspaceStateSaveDate = 344867674;
+		};
+		perUserProjectItems = {
+			F4A60A47148E43760085F181 /* PBXTextBookmark */ = F4A60A47148E43760085F181 /* PBXTextBookmark */;
+			F4A60A48148E43760085F181 /* PBXTextBookmark */ = F4A60A48148E43760085F181 /* PBXTextBookmark */;
+			F4A60A49148E43760085F181 /* PBXBookmark */ = F4A60A49148E43760085F181 /* PBXBookmark */;
+			F4A60A4A148E43760085F181 /* PBXTextBookmark */ = F4A60A4A148E43760085F181 /* PBXTextBookmark */;
+		};
+		sourceControlManager = F4A60A50148E43760085F181 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F4A60A3B148E43590085F181 /* wifiConnect */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = wifiConnect;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F4A60A47148E43760085F181 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* wifiConnectAppDelegate.m */;
+		name = "wifiConnectAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 729;
+		vrLoc = 282;
+	};
+	F4A60A48148E43760085F181 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* wifiConnectViewController.h */;
+		name = "wifiConnectViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 679;
+		vrLoc = 732;
+	};
+	F4A60A49148E43760085F181 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+	};
+	F4A60A4A148E43760085F181 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		name = "wifiConnectViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 680;
+		vrLoc = 1382;
+	};
+	F4A60A50148E43760085F181 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F4A60A51148E43760085F181 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

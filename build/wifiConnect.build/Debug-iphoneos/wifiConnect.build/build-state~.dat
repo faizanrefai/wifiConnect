@@ -1,0 +1,431 @@
+TwifiConnect
+v7
+r1
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC11C240000000000000733
+t1287724068
+s1843
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004CC129A40000000000289BB0
+t1287727524
+s2661296
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004CC129850000000000000348
+t1287727493
+s840
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC247E70000000000000294
+t1287800807
+s660
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC2483E000000000038CF50
+t1287800894
+s3723088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004CC1106800000000000000EB
+t1287721064
+s235
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/1.wav
+c000000004DD4B732000000000004A96C
+t1305786162
+s305516
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/../wifiConnectViewController.xib
+c000000004EC4D3BF00000000000072E1
+t1321522111
+s29409
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/AlertHandler.h
+c000000004EA018FC000000000000009F
+t1319115004
+s159
+i<Foundation/Foundation.h>
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/AlertHandler.m
+c000000004EA25F4300000000000003D1
+t1319264067
+s977
+i"AlertHandler.h"
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/LibraryViewController.h
+c000000004EC0BF41000000000000020F
+t1321254721
+s527
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/LibraryViewController.m
+c000000004ECF71880000000000001026
+t1322217864
+s4134
+i"LibraryViewController.h"
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/LibraryViewController.xib
+c000000004EC0A716000000000000485B
+t1321248534
+s18523
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/ListOfDevices.h
+c000000004EA11E7600000000000001A9
+t1319181942
+s425
+i<UIKit/UIKit.h>
+i"dataSentResult.h"
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/ListOfDevices.m
+c000000004EA11EBB0000000000000F1F
+t1319182011
+s3871
+i"ListOfDevices.h"
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/ListOfDevices.xib
+c000000004EA11A89000000000000493A
+t1319180937
+s18746
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/dataSentResult.h
+c000000004EA11ECF0000000000000102
+t1319182031
+s258
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/dataSentResult.m
+c000000004EA11F160000000000000600
+t1319182102
+s1536
+i"dataSentResult.h"
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/dataSentResult.xib
+c000000004EA11F130000000000004FD7
+t1319182099
+s20439
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectAppDelegate.h
+c000000004EA12E030000000000000224
+t1319185923
+s548
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectAppDelegate.m
+c000000004ECB81800000000000000D2A
+t1321959808
+s3370
+i"wifiConnectAppDelegate.h"
+i"wifiConnectViewController.h"
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectViewController.h
+c000000004EC4EAF30000000000000583
+t1321528051
+s1411
+i<UIKit/UIKit.h>
+i"ListOfDevices.h"
+i"wifiConnectAppDelegate.h"
+i"AlertHandler.h"
+i<GameKit/GameKit.h>
+i"LibraryViewController.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectViewController.m
+c000000004ECF719F0000000000004228
+t1322217887
+s16936
+i"wifiConnectViewController.h"
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/MainWindow.xib
+c000000004EA118470000000000004E59
+t1319180359
+s20057
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app.dSYM
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/1.wav
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/Info.plist
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/LibraryViewController.nib
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/ListOfDevices.nib
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/MainWindow.nib
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/PkgInfo
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/ResourceRules.plist
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/dataSentResult.nib
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/wifiConnect
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/wifiConnectViewController.nib
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/AlertHandler.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/LibraryViewController.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/ListOfDevices.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/dataSentResult.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/wifiConnect
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/wifiConnect.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/wifiConnectAppDelegate.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/wifiConnectViewController.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/AlertHandler.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/LibraryViewController.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/ListOfDevices.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/dataSentResult.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/wifiConnect
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/wifiConnect.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/wifiConnectAppDelegate.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/wifiConnectViewController.o
+t2
+s0
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/main.m
+c000000004EA118470000000000000167
+t1319180359
+s359
+i<UIKit/UIKit.h>
+
+N/Volumes/MAC_Backup/Sample codes/wifiConnect/wifiConnect_Prefix.pch
+c000000004EA1184700000000000000BF
+t1319180359
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/wY/wY5iIgFFGnyg4298DZSHr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wifiConnect_Prefix-cztnqjgmrbkrxkhgjegqobbomuff/wifiConnect_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/wY/wY5iIgFFGnyg4298DZSHr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wifiConnect_Prefix-fytphfszbfugumbanxxpcuausjmh/wifiConnect_Prefix.pch.gch
+t2
+s0
+
+NwifiConnect-Info.plist
+c000000004EBE5D61000000000000036E
+t1321098593
+s878
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies345460927#345460927#0(99"[BEROR]Code Sign error: Provisioning profile '123EEC58-713F-4845-8C0B-5985D32BFAC2' can't be found1(4@91"Code Sign error: Provisioning profile '123EEC58-713F-4845-8C0B-5985D32BFAC2' can't be found345460927#18446744073709551615#0#0(1@0"0(0#1#0"8612915104#0"0#
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/AlertHandler.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/AlertHandler.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/LibraryViewController.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/LibraryViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/ListOfDevices.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/ListOfDevices.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/dataSentResult.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/dataSentResult.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/main.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/wifiConnectAppDelegate.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/wifiConnectViewController.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/AlertHandler.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/AlertHandler.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/LibraryViewController.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/LibraryViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/ListOfDevices.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/ListOfDevices.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/dataSentResult.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/dataSentResult.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/main.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/wifiConnectAppDelegate.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/wifiConnectViewController.o "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/wifiConnectViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/../wifiConnectViewController.xib"
+r0
+
+CCompileXIB "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/LibraryViewController.xib"
+r0
+
+CCompileXIB "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/ListOfDevices.xib"
+r0
+
+CCompileXIB "/Volumes/MAC_Backup/Sample codes/wifiConnect/Classes/dataSentResult.xib"
+r0
+
+CCompileXIB "/Volumes/MAC_Backup/Sample codes/wifiConnect/MainWindow.xib"
+r0
+
+CCpResource build/Debug-iphoneos/wifiConnect.app/1.wav 1.wav
+r0
+
+CCpResource build/Debug-iphoneos/wifiConnect.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+r0
+
+CCreateUniversalBinary "/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/wifiConnect" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app.dSYM" "/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/wifiConnect"
+r0
+
+CLd "/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv6/wifiConnect" normal armv6
+r0
+
+CLd "/Volumes/MAC_Backup/Sample codes/wifiConnect/build/wifiConnect.build/Debug-iphoneos/wifiConnect.build/Objects-normal/armv7/wifiConnect" normal armv7
+r0
+
+CProcessInfoPlistFile "/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app/Info.plist" wifiConnect-Info.plist
+r0
+
+CProcessPCH /var/folders/wY/wY5iIgFFGnyg4298DZSHr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wifiConnect_Prefix-cztnqjgmrbkrxkhgjegqobbomuff/wifiConnect_Prefix.pch.gch wifiConnect_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/wY/wY5iIgFFGnyg4298DZSHr++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/wifiConnect_Prefix-fytphfszbfugumbanxxpcuausjmh/wifiConnect_Prefix.pch.gch wifiConnect_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Volumes/MAC_Backup/Sample codes/wifiConnect/build/Debug-iphoneos/wifiConnect.app"
+r0
+

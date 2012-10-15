@@ -1,0 +1,636 @@
+// !$*UTF8*$!
+{
+	1815DFD114986B690026294C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		name = "wifiConnectViewController.m: 37";
+		rLen = 0;
+		rLoc = 771;
+		rType = 0;
+		vrLen = 893;
+		vrLoc = 764;
+	};
+	1819A6001452999600C0279B /* wifiConnectViewController.m:137 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		functionName = "-chooseProxiBtnClicked:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 137;
+		modificationTime = 343917099.797304;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1819A62614529AEA00C0279B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1819A62714529AEA00C0279B /* UIPickerView.h */;
+		name = "UIPickerView.h: 63";
+		rLen = 140;
+		rLoc = 2571;
+		rType = 0;
+		vrLen = 1580;
+		vrLoc = 1763;
+	};
+	1819A62714529AEA00C0279B /* UIPickerView.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIPickerView.h;
+		path = /SDK4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIPickerView.h;
+		sourceTree = "<absolute>";
+	};
+	1845889C147FCB88008409AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18542B6E145155ED0080D003 /* dataSentResult.m */;
+		name = "dataSentResult.m: 28";
+		rLen = 1;
+		rLoc = 742;
+		rType = 0;
+		vrLen = 934;
+		vrLoc = 602;
+	};
+	1845889D147FCB88008409AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186B5DA41451508F00866CD5 /* ListOfDevices.m */;
+		name = "ListOfDevices.m: 78";
+		rLen = 18;
+		rLoc = 2150;
+		rType = 0;
+		vrLen = 1038;
+		vrLoc = 2144;
+	};
+	1845889E147FCB88008409AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* wifiConnectAppDelegate.m */;
+		name = "wifiConnectAppDelegate.m: 30";
+		rLen = 0;
+		rLoc = 801;
+		rType = 0;
+		vrLen = 945;
+		vrLoc = 147;
+	};
+	1845889F147FCB88008409AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* wifiConnectViewController.h */;
+		name = "wifiConnectViewController.h: 28";
+		rLen = 23;
+		rLoc = 911;
+		rType = 0;
+		vrLen = 946;
+		vrLoc = 236;
+	};
+	184588A0147FCB88008409AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 189005351470DD470058CADF /* LibraryViewController.h */;
+		name = "LibraryViewController.h: 23";
+		rLen = 0;
+		rLoc = 521;
+		rType = 0;
+		vrLen = 527;
+		vrLoc = 0;
+	};
+	184588A1147FCB88008409AD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 189005361470DD470058CADF /* LibraryViewController.m */;
+		name = "LibraryViewController.m: 31";
+		rLen = 6;
+		rLoc = 806;
+		rType = 0;
+		vrLen = 449;
+		vrLoc = 651;
+	};
+	18542B5D145155550080D003 /* ListOfDevices.m:79 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 186B5DA41451508F00866CD5 /* ListOfDevices.m */;
+		functionName = "-OpenLibrary";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 79;
+		modificationTime = 343917099.7972239;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18542B6D145155ED0080D003 /* dataSentResult.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 738}}";
+			sepNavSelRange = "{216, 35}";
+			sepNavVisRange = "{0, 258}";
+		};
+	};
+	18542B6E145155ED0080D003 /* dataSentResult.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1756.74, 1302}}";
+			sepNavSelRange = "{742, 1}";
+			sepNavVisRange = "{602, 934}";
+		};
+	};
+	18542B94145157F30080D003 /* AlertHandler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 787}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 159}";
+		};
+	};
+	18542B95145157F30080D003 /* AlertHandler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1529.17, 945}}";
+			sepNavSelRange = "{708, 3}";
+			sepNavVisRange = "{29, 941}";
+		};
+	};
+	1866BBE9146EA22500D7BD37 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18542B94145157F30080D003 /* AlertHandler.h */;
+		name = "AlertHandler.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 159;
+		vrLoc = 0;
+	};
+	1866BBEA146EA22500D7BD37 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18542B95145157F30080D003 /* AlertHandler.m */;
+		name = "AlertHandler.m: 30";
+		rLen = 3;
+		rLoc = 708;
+		rType = 0;
+		vrLen = 941;
+		vrLoc = 29;
+	};
+	1866BBEB146EA22500D7BD37 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* wifiConnectAppDelegate.h */;
+		name = "wifiConnectAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 401;
+		rType = 0;
+		vrLen = 548;
+		vrLoc = 0;
+	};
+	1866BC5A146EA5FB00D7BD37 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18542B6D145155ED0080D003 /* dataSentResult.h */;
+		name = "dataSentResult.h: 15";
+		rLen = 35;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 258;
+		vrLoc = 0;
+	};
+	1866BD26146EAFF600D7BD37 /* wifiConnectViewController.m:396 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		functionName = "-receiveData:fromPeer:inSession:context:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 396;
+		modificationTime = 343917099.797478;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	186B5D8F14514FC800866CD5 /* wifiConnect */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = wifiConnect;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	186B5D9F14514FD200866CD5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	186B5DA014514FD200866CD5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	186B5DA31451508F00866CD5 /* ListOfDevices.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1550.84, 755}}";
+			sepNavSelRange = "{299, 31}";
+			sepNavVisRange = "{0, 425}";
+		};
+	};
+	186B5DA41451508F00866CD5 /* ListOfDevices.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1843.44, 2856}}";
+			sepNavSelRange = "{2150, 18}";
+			sepNavVisRange = "{2144, 1038}";
+		};
+	};
+	189004DA1470D8EA0058CADF /* GKSession.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GKSession.h;
+		path = /SDK4.2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GKSession.h;
+		sourceTree = "<absolute>";
+	};
+	189005011470DA2A0058CADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 189005021470DA2A0058CADF /* GKPublicProtocols.h */;
+		name = "GKPublicProtocols.h: 17";
+		rLen = 39;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 209;
+	};
+	189005021470DA2A0058CADF /* GKPublicProtocols.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GKPublicProtocols.h;
+		path = /SDK4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GKPublicProtocols.h;
+		sourceTree = "<absolute>";
+	};
+	189005351470DD470058CADF /* LibraryViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1102, 525}}";
+			sepNavSelRange = "{521, 0}";
+			sepNavVisRange = "{0, 527}";
+		};
+	};
+	189005361470DD470058CADF /* LibraryViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = \"(NSURL *)url\";\n            r = \"{1886, 16}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 4134}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1756.74, 3192}}";
+			sepNavSelRange = "{806, 6}";
+			sepNavVisRange = "{651, 449}";
+		};
+	};
+	189006691470EE950058CADF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1890066A1470EE950058CADF /* MPMoviePlayerController.h */;
+		name = "MPMoviePlayerController.h: 85";
+		rLen = 97;
+		rLoc = 2585;
+		rType = 0;
+		vrLen = 1922;
+		vrLoc = 3065;
+	};
+	1890066A1470EE950058CADF /* MPMoviePlayerController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = MPMoviePlayerController.h;
+		path = /SDK4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MPMoviePlayerController.h;
+		sourceTree = "<absolute>";
+	};
+	189007EA14711F570058CADF /* wifiConnectViewController.m:508 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		functionName = "-OpenLibrary:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 508;
+		modificationTime = 343917099.797361;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	189F8E911487C1BC00A61823 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		name = "wifiConnectViewController.m: 199";
+		rLen = 2;
+		rLoc = 5710;
+		rType = 0;
+		vrLen = 1100;
+		vrLoc = 5436;
+	};
+	18C0AC0F147BB9B20069E257 /* wifiConnectViewController.m:227 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		functionName = "-peerPickerController:didSelectConnectionType:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 227;
+		modificationTime = 343917099.797419;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18C0AC9B147BC0560069E257 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18C0AC9C147BC0560069E257 /* GKPeerPickerController.h */;
+		name = "GKPeerPickerController.h: 70";
+		rLen = 30;
+		rLoc = 3630;
+		rType = 0;
+		vrLen = 2085;
+		vrLoc = 1739;
+	};
+	18C0AC9C147BC0560069E257 /* GKPeerPickerController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GKPeerPickerController.h;
+		path = /SDK4.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GKPeerPickerController.h;
+		sourceTree = "<absolute>";
+	};
+	18C0AE3F147BD8140069E257 /* wifiConnectViewController.m:256 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		functionName = "-session:peer:didChangeState:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 256;
+		modificationTime = 343917099.797245;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	18C0AE4A147BD9C80069E257 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 189004DA1470D8EA0058CADF /* GKSession.h */;
+		name = "GKSession.h: 85";
+		rLen = 68;
+		rLoc = 3950;
+		rType = 0;
+		vrLen = 1546;
+		vrLoc = 2477;
+	};
+	18C0AE51147BDA8E0069E257 /* GKPublicConstants.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GKPublicConstants.h;
+		path = /SDK4.2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GKPublicConstants.h;
+		sourceTree = "<absolute>";
+	};
+	18C0AF2A147BE2610069E257 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18C0AE51147BDA8E0069E257 /* GKPublicConstants.h */;
+		name = "GKPublicConstants.h: 11";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 1560;
+		vrLoc = 0;
+	};
+	18F84C5914751C72007C2DD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18F84C5A14751C72007C2DD3 /* GKPeerPickerController.h */;
+		name = "GKPeerPickerController.h: 57";
+		rLen = 22;
+		rLoc = 2564;
+		rType = 0;
+		vrLen = 2085;
+		vrLoc = 1739;
+	};
+	18F84C5A14751C72007C2DD3 /* GKPeerPickerController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GKPeerPickerController.h;
+		path = /SDK4.2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GKPeerPickerController.h;
+		sourceTree = "<absolute>";
+	};
+	18F84C5D14751C72007C2DD3 /* GKPublicProtocols.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = GKPublicProtocols.h;
+		path = /SDK4.2/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GKPublicProtocols.h;
+		sourceTree = "<absolute>";
+	};
+	18F84C6114751CE6007C2DD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 18F84C5D14751C72007C2DD3 /* GKPublicProtocols.h */;
+		name = "GKPublicProtocols.h: 17";
+		rLen = 39;
+		rLoc = 253;
+		rType = 0;
+		vrLen = 1756;
+		vrLoc = 617;
+	};
+	18F84C7214751D20007C2DD3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 186B5DA31451508F00866CD5 /* ListOfDevices.h */;
+		name = "ListOfDevices.h: 12";
+		rLen = 31;
+		rLoc = 299;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	18F84CA21475217E007C2DD3 /* wifiConnectViewController.m:71 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */;
+		functionName = "-session:peer:didChangeState:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 71;
+		modificationTime = 343917099.797106;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	1D3623240D0F684500981E51 /* wifiConnectAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 787}}";
+			sepNavSelRange = "{401, 0}";
+			sepNavVisRange = "{0, 548}";
+		};
+	};
+	1D3623250D0F684500981E51 /* wifiConnectAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1247.41, 2604}}";
+			sepNavSelRange = "{801, 0}";
+			sepNavVisRange = "{147, 945}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* wifiConnect */ = {
+		activeExec = 0;
+		executables = (
+			186B5D8F14514FC800866CD5 /* wifiConnect */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* wifiConnectViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2862.11, 945}}";
+			sepNavSelRange = "{911, 23}";
+			sepNavVisRange = "{236, 946}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* wifiConnectViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1196, 9440}}";
+			sepNavSelRange = "{771, 0}";
+			sepNavVisRange = "{764, 893}";
+			sepNavWindowFrame = "{{15, 81}, {1549, 942}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 186B5D8F14514FC800866CD5 /* wifiConnect */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* wifiConnect */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* wifiConnect */,
+		);
+		breakpoints = (
+			18542B5D145155550080D003 /* ListOfDevices.m:79 */,
+			1819A6001452999600C0279B /* wifiConnectViewController.m:137 */,
+			1866BD26146EAFF600D7BD37 /* wifiConnectViewController.m:396 */,
+			189007EA14711F570058CADF /* wifiConnectViewController.m:508 */,
+			18F84CA21475217E007C2DD3 /* wifiConnectViewController.m:71 */,
+			18C0AC0F147BB9B20069E257 /* wifiConnectViewController.m:227 */,
+			18C0AE3F147BD8140069E257 /* wifiConnectViewController.m:256 */,
+		);
+		codeSenseManager = 186B5DA014514FD200866CD5 /* Code sense */;
+		executables = (
+			186B5D8F14514FC800866CD5 /* wifiConnect */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					954,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					534,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1026,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 345532643;
+			PBXWorkspaceStateSaveDate = 345532643;
+		};
+		perUserProjectItems = {
+			1815DFD114986B690026294C /* PBXTextBookmark */ = 1815DFD114986B690026294C /* PBXTextBookmark */;
+			1819A62614529AEA00C0279B /* PBXTextBookmark */ = 1819A62614529AEA00C0279B /* PBXTextBookmark */;
+			1845889C147FCB88008409AD /* PBXTextBookmark */ = 1845889C147FCB88008409AD /* PBXTextBookmark */;
+			1845889D147FCB88008409AD /* PBXTextBookmark */ = 1845889D147FCB88008409AD /* PBXTextBookmark */;
+			1845889E147FCB88008409AD /* PBXTextBookmark */ = 1845889E147FCB88008409AD /* PBXTextBookmark */;
+			1845889F147FCB88008409AD /* PBXTextBookmark */ = 1845889F147FCB88008409AD /* PBXTextBookmark */;
+			184588A0147FCB88008409AD /* PBXTextBookmark */ = 184588A0147FCB88008409AD /* PBXTextBookmark */;
+			184588A1147FCB88008409AD /* PBXTextBookmark */ = 184588A1147FCB88008409AD /* PBXTextBookmark */;
+			1866BBE9146EA22500D7BD37 /* PBXTextBookmark */ = 1866BBE9146EA22500D7BD37 /* PBXTextBookmark */;
+			1866BBEA146EA22500D7BD37 /* PBXTextBookmark */ = 1866BBEA146EA22500D7BD37 /* PBXTextBookmark */;
+			1866BBEB146EA22500D7BD37 /* PBXTextBookmark */ = 1866BBEB146EA22500D7BD37 /* PBXTextBookmark */;
+			1866BC5A146EA5FB00D7BD37 /* PBXTextBookmark */ = 1866BC5A146EA5FB00D7BD37 /* PBXTextBookmark */;
+			189005011470DA2A0058CADF /* PBXTextBookmark */ = 189005011470DA2A0058CADF /* PBXTextBookmark */;
+			189006691470EE950058CADF /* PBXTextBookmark */ = 189006691470EE950058CADF /* PBXTextBookmark */;
+			189F8E911487C1BC00A61823 /* PBXTextBookmark */ = 189F8E911487C1BC00A61823 /* PBXTextBookmark */;
+			18C0AC9B147BC0560069E257 /* PBXTextBookmark */ = 18C0AC9B147BC0560069E257 /* PBXTextBookmark */;
+			18C0AE4A147BD9C80069E257 /* PBXTextBookmark */ = 18C0AE4A147BD9C80069E257 /* PBXTextBookmark */;
+			18C0AF2A147BE2610069E257 /* PBXTextBookmark */ = 18C0AF2A147BE2610069E257 /* PBXTextBookmark */;
+			18F84C5914751C72007C2DD3 /* PBXTextBookmark */ = 18F84C5914751C72007C2DD3 /* PBXTextBookmark */;
+			18F84C6114751CE6007C2DD3 /* PBXTextBookmark */ = 18F84C6114751CE6007C2DD3 /* PBXTextBookmark */;
+			18F84C7214751D20007C2DD3 /* PBXTextBookmark */ = 18F84C7214751D20007C2DD3 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 186B5D9F14514FD200866CD5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
